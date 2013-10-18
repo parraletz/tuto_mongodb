@@ -1,3 +1,6 @@
+##### Ejemplo para la entrada http://blog.parraletz.com/mongobd/bases-de-datos-nosql-con-python-mongodb/
+
+
 from pymongo import MongoClient
 
 con = MongoClient('mongodb://localhost:27017') # Se crea la conexion con la base de datos de mongo, en este caso se usa la url
